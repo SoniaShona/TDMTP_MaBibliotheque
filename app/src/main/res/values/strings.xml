@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ma Bibliotheque</string>
+
+    <string-array name="titre">
+        <item>Le Dernier Jour d un condamne</item>
+        <item>Le pouvoir du moment present</item>
+        <item>La Medecine du bonheur</item>
+        <item>Le jour ou ma tete est tombee dans un trou</item>
+        <item>Les Amis</item>
+    </string-array>
+
+    <string-array name="auteur">
+        <item>Victor Hugo</item>
+        <item>Eckhart Tolle</item>
+        <item>Henri Rubeinstein</item>
+        <item>Caroline Valentiny</item>
+        <item>Kazumi Yumoto</item>
+    </string-array>
+
+    <string-array name="resume">
+        <item>Un condamne a mort raconte sa condamnation, son sejour a Bicetre, puis a la Conciergerie, decrit les preparatifs de son execution, sa derni ere toilette, le voyage en charrette vers l echafaud, ses impressions durant les quelques instants de delai qui lui sont accordes, mais qui vont bientot s achever.
+            Le spectacle du depart des forçats, les noms des condamnes qui l ont precede dans sa cellule, la complainte qu il entend chanter en argot, sa conversation avec le stupide greffier, avec le pretre, avec les geoliers, avec sa petite fille, tels sont les derniers objets qui occupent sa pensee.</item>
+        <item>Il est possible de vivre sans souffrance, mais pour atteindre cet etat d eveil vous devez mettre fin a votre identification au mental, c est en etant totalement dans l ici et maintenant que vous saurez vous ouvrir au pouvoir transformateur du moment present.
+                 Le pouvoir du moment present – Guide d eveil spirituel</item>
+        <item>Aujourd hui, la medecine peut nous aider a retrouver notre bien-etre, mais est-ce la etre heureux ? Et, qu est-ce que le bonheur ? Est-on malade si l on se sent malheureux ? Ce sentiment de malaise est-il le symptôme d une affection que l on doit traiter ? La medecine moderne, qui a radicalement ameliore nos rapports a la sante, a la qualite de vie, est-elle devenue la principale responsable de notre bonheur? Les composantes du bonheur sont-elles uniquement chimiques, biologiques, psychologiques ou genetiques ? Le Dr Henri Rubinstein fait la synthese des connaissances actuelles sur ces questions dans ce livre</item>
+        <item>C est l histoire d une vie qui bascule a la fin de l adolescence. Sans que rien ne le laisse prevoir, une jeune fille se retrouve prisonniere d un univers mental eclate, en proie a de profondes et violentes crises d angoisse. Ce jour la, litteralement, sa tête tombe dans l abime, la peur s accompagne de voix, puis de tendances a l anorexie et a l automutilation. Une autre voix, celle de ses proches, raconte leur detresse, alors qu ils assistent, impuissants, a sa longue descente aux enfers. Comment parviendra-t-elle a renouer avec elle-même, a rejoindre les autres ? C est son voyage decisif vers l inconnu qui nous est raconte ici, la quete vitale d un appui solide qui la menera au bout du monde et au bout d elle-meme, afin de rassembler ses morceaux epars et de se faufiler, enfin, vers la lumiere.</item>
+        <item>Kiyama, Kawabe et Yamashita sont trois copains d ecole d une douzaine d annees. La grand-mere de Yamashita meurt soudain. Il la connaissait a peine, mais il doit partir trois jours pour assister a son enterrement. Il revient trouble, fascine, obsede par la mort. Les deux autres se rendent compte qu ils n ont jamais vu de cadavre et qu ils ignorent ce qu on ressent a la mort de quelqu un...</item>
+    </string-array>
+
+
+</resources>

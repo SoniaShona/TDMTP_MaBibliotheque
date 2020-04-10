@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="couverture">
+        <item>@drawable/ledernierjourduncomdamne</item>
+        <item>@drawable/lepouvoirdumomentpresent</item>
+        <item>@drawable/lamedecinedbonheur</item>
+        <item>@drawable/lejouroumateteesttombeedansuntrou</item>
+        <item>@drawable/lesamis</item>
+    </integer-array>
+</resources>
